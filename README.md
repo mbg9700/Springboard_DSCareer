@@ -1,2 +1,2 @@
 # Springboard Data Science Career Track - Capstone 1
-# Record linkage using supervised machine learning
+### Record linkage using supervised machine learning
